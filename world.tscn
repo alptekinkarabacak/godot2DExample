@@ -12,6 +12,7 @@ size = Vector2(347.5, 919.25)
 
 [node name="Player" parent="." instance=ExtResource("1_4deyh")]
 position = Vector2(384, 360)
+scale = Vector2(2, 2)
 
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
 
